@@ -1,3 +1,43 @@
-.subTitle{
-    
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 150%;
+    background-color: #dff6f6;
+    background-size: 800px;
+    color: #305050;
+}
+
+.jax-corner {
+    background-color:gold;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.header h1 {
+    margin: 0px;
+    padding: 50px 0px;
+    font-family: "Rubik Vinyl", serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: black;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 50px;
+
+}
+
+
+.subTitle {
+    font-family: "inter";
+}
+
+.span{
+    font-style: italic;
 }
